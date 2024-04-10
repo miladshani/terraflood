@@ -159,6 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# MINE
 
 # Test files for trials
 *trials*
+
+.DS_Store
+*.DS_Store
