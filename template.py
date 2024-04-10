@@ -10,7 +10,7 @@ list_of_files = [
 
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
 
     ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
