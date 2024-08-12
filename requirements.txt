@@ -8,7 +8,7 @@ python-box==7.1.1
 shapely==2.0.3
 pystac==1.10.0
 tensorflow[and-cuda]
-tensorflow==2.16.1
+# tensorflow==2.17.0
 keras==3.3.3
 tifffile==2024.5.10
 tensorflow_addons==0.23.0
